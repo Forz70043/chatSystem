@@ -1,0 +1,14 @@
+body {
+    margin-top: 1rem;
+    background-color: silver;
+}
+.container {
+    width: 40%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+}
+.chatBox {
+    margin: 0;
+    
+}
